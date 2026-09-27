@@ -1,2 +1,2 @@
 # bobOS
-my os
+a simple private OS
