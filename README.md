@@ -1,4 +1,4 @@
-# bobOS           privacy focused OS
+# -bobOS           -privacy focused OS
 
 bobOS is a web operating sistem built to be simple 
 and not let anyone access your datas.
