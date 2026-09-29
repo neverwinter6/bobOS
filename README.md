@@ -1,4 +1,5 @@
-# bobOS - privacy-focused browser
+# bobOS 
+privacyfocused browser
 
 bobOS is a web operating sistem built to be simple 
 and not let anyone access your datas.
